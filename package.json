@@ -10,7 +10,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "http-errors": "^1.6.2"
+    "http-errors": "^2.0.0"
   },
   "devDependencies": {
     "api-error-handler": "^1.0.0",
